@@ -101,6 +101,7 @@ python Density_Experiments.py
 The program generates **28 PNG figures** in the current working directory:
 
 - six Gaussian KNN plots
+  
   ![N1_K1](./figures/Gaussian%20KNN_Density_Estimation_N1_K1.png)
   ![N10_K2](./figures/Gaussian%20KNN_Density_Estimation_N10_K2.png)
   ![N10_K10](./figures/Gaussian%20KNN_Density_Estimation_N10_K10.png)
@@ -108,6 +109,7 @@ The program generates **28 PNG figures** in the current working directory:
   ![N1000_K100](./figures/Gaussian%20KNN_Density_Estimation_N1000_K100.png)
   ![N50000_K50000](./figures/Gaussian%20KNN_Density_Estimation_N50000_K50000.png)
 - six mixture KNN plots
+  
   ![N1_K1](./figures/Mixture%20KNN_Density_Estimation_N1_K1.png)
   ![N10_K2](./figures/Mixture%20KNN_Density_Estimation_N10_K2.png)
   ![N10_K10](./figures/Mixture%20KNN_Density_Estimation_N10_K10.png)
@@ -115,6 +117,7 @@ The program generates **28 PNG figures** in the current working directory:
   ![N1000_K100](./figures/Mixture%20KNN_Density_Estimation_N1000_K100.png)
   ![N50000_K50000](./figures/Mixture%20KNN_Density_Estimation_N50000_K50000.png)
 - seven Gaussian KDE plots
+  
   ![N1](./figures/Gaussian_Kernel_Density_Estimation_N1_sigma1.0.png)
   ![N2](./figures/Gaussian_Kernel_Density_Estimation_N2_sigma1.0.png)
   ![N5](./figures/Gaussian_Kernel_Density_Estimation_N5_sigma1.0.png)
@@ -123,6 +126,7 @@ The program generates **28 PNG figures** in the current working directory:
   ![N100](./figures/Gaussian_Kernel_Density_Estimation_N100_sigma1.0.png)
   ![N1000](./figures/Gaussian_Kernel_Density_Estimation_N1000_sigma1.0.png)
 - nine histogram plots.
+  
   ![N = 5 bins = 2](./figures/Histogram_Density_Estimation_N5_bins2.png)
   ![N = 5 bins = 5](./figures/Histogram_Density_Estimation_N5_bins5.png)
   ![N = 5 bins = 20](./figures/Histogram_Density_Estimation_N5_bins20.png)
@@ -132,4 +136,3 @@ The program generates **28 PNG figures** in the current working directory:
   ![N = 500 bins = 2](./figures/Histogram_Density_Estimation_N500_bins2.png)
   ![N = 500 bins = 5](./figures/Histogram_Density_Estimation_N500_bins5.png)
   ![N = 500 bins = 20](./figures/Histogram_Density_Estimation_N500_bins20.png)
-
