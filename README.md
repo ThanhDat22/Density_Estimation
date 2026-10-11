@@ -108,6 +108,7 @@ The program generates **28 PNG figures** in the current working directory:
   ![N1000_K10](./figures/Gaussian%20KNN_Density_Estimation_N1000_K100.png)
   ![N1000_K100](./figures/Gaussian%20KNN_Density_Estimation_N1000_K100.png)
   ![N50000_K50000](./figures/Gaussian%20KNN_Density_Estimation_N50000_K50000.png)
+
 - six mixture KNN plots
   
   ![N1_K1](./figures/Mixture%20KNN_Density_Estimation_N1_K1.png)
@@ -116,6 +117,7 @@ The program generates **28 PNG figures** in the current working directory:
   ![N1000_K10](./figures/Mixture%20KNN_Density_Estimation_N1000_K100.png)
   ![N1000_K100](./figures/Mixture%20KNN_Density_Estimation_N1000_K100.png)
   ![N50000_K50000](./figures/Mixture%20KNN_Density_Estimation_N50000_K50000.png)
+
 - seven Gaussian KDE plots
   
   ![N1](./figures/Gaussian_Kernel_Density_Estimation_N1_sigma1.0.png)
@@ -125,6 +127,7 @@ The program generates **28 PNG figures** in the current working directory:
   ![N50](./figures/Gaussian_Kernel_Density_Estimation_N50_sigma1.0.png)
   ![N100](./figures/Gaussian_Kernel_Density_Estimation_N100_sigma1.0.png)
   ![N1000](./figures/Gaussian_Kernel_Density_Estimation_N1000_sigma1.0.png)
+
 - nine histogram plots.
   
   ![N = 5 bins = 2](./figures/Histogram_Density_Estimation_N5_bins2.png)
