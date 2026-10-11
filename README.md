@@ -90,7 +90,6 @@ Overall, the experiments demonstrate how the choice of density estimation method
 | `Gaussian_Density.py` | Generates Gaussian samples and calculates the true Gaussian density. |
 | `Mixture_Density.py` | Generates samples from the two-uniform mixture and calculates its true density. |
 | `Density_Experiments.py` | Main program for Q1–Q4 and saving the figures. |
-| `Project_3_KNN_Density - TN.pdf` | Written report containing plots and discussions of the results. |
 
 ## VI. Running the Program
 
